@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\Admin\source\repos\Snake\Debug\Snake.exe for writing
